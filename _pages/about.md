@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: it is not a deathnote unfortunately, but i wish it would # <a href='#'>Affiliations</a>. in sorrow, yet ever joyful
+subtitle: it is not a deathnote unfortunately, but i wish it would 
 
 profile:
   align: right
@@ -11,9 +11,6 @@ profile:
   more_info: >
     <p>Hanoi, Vietnam</p>
     <p>Atlanta, US</p>
-    #<p>555 your office number</p>
-    #<p>123 your address street</p>
-    #<p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
