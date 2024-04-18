@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was admitted into MSc in Data Science and Analytics with an Assistantship Award of Georgia State University. 
+I was admitted into MSc in Data Science and Analytics of Georgia State University with a Scholarship and Assistantship Award. 
