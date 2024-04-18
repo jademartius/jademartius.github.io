@@ -6,7 +6,7 @@ title: martius's deathnote
 first_name: Martius
 middle_name: J.
 last_name: Nguyen
-email: jademartius@gmail.com
+email: jademartius@gmail.com 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -39,7 +39,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: false
+rss_icon: true
 
 # -----------------------------------------------------------------------------
 # Layout
